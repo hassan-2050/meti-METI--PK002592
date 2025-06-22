@@ -1,0 +1,4 @@
+tf-nightly-cpu
+streamlit==1.46.0
+pillow
+numpy

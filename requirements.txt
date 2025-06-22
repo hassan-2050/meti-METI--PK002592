@@ -1,4 +1,5 @@
 tf-nightly-cpu
+matplotlib
 streamlit==1.46.0
 pillow
 numpy
